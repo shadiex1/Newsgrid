@@ -1,0 +1,22 @@
+{
+  "name": "newsgrid",
+  "version": "1.0.0",
+  "description": "Newsgrid website for news and forms",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadiex1/Newsgrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadiex1/Newsgrid/issues"
+  },
+  "homepage": "https://github.com/shadiex1/Newsgrid#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
